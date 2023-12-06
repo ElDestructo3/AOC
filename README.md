@@ -1,0 +1,1 @@
+My list of solutions for the Advent of Code 2023, while trying to learn Golang.
